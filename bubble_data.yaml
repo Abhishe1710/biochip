@@ -1,0 +1,12 @@
+# bubble_data.yaml
+path: C:\Users\abhishek-kumar\Desktop\Project\Biochip-defect\Folder_alignment\yolo_labels\bubble_data
+
+# Relative paths to the train/val images from the 'path'
+train: images/train
+val: images/val
+
+# Number of classes
+nc: 1
+
+# Class names (must match the order of class IDs in your labels)
+names: ['bubble']
